@@ -1,0 +1,40 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/cibin/colcon_ws/install/ur_description/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/ur5_control/lib/python3.10/site-packages",
+        "/home/cibin/colcon_ws/install/servo_msgs/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/payload_service/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/ebot_nav2/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/ebot_docking/local/lib/python3.10/dist-packages",
+        "/home/cibin/turtlebot3_ws/install/turtlebot_hd/local/lib/python3.10/dist-packages",
+        "/home/cibin/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/cibin/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/cibin/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/cibin/turtlebot3_ws/install/nav_goals/lib/python3.10/site-packages",
+        "/home/cibin/turtlebot3_ws/install/my_slam_config/lib/python3.10/site-packages",
+        "/home/cibin/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/cibin/colcon_ws/install/ur_description/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/ur5_control/lib/python3.10/site-packages",
+        "/home/cibin/colcon_ws/install/servo_msgs/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/payload_service/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/ebot_nav2/local/lib/python3.10/dist-packages",
+        "/home/cibin/colcon_ws/install/ebot_docking/local/lib/python3.10/dist-packages",
+        "/home/cibin/turtlebot3_ws/install/turtlebot_hd/local/lib/python3.10/dist-packages",
+        "/home/cibin/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/cibin/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/cibin/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/cibin/turtlebot3_ws/install/nav_goals/lib/python3.10/site-packages",
+        "/home/cibin/turtlebot3_ws/install/my_slam_config/lib/python3.10/site-packages",
+        "/home/cibin/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

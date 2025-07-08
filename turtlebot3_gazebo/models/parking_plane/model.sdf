@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <model name="parking_plane">
+    <static>true</static>
+    <link name="link_plane">
+      <visual name="visual_plane">
+        <geometry>
+          <mesh>
+            <uri>model://parking_plane/meshes/parking_model.dae</uri>
+          </mesh>
+        </geometry>
+      </visual>
+
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://parking_plane/meshes/parking_model.dae</uri>
+          </mesh>
+        </geometry>
+      </collision>
+    </link>
+  </model>
+</sdf>
+

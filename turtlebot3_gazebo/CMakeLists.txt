@@ -82,6 +82,17 @@ install(DIRECTORY launch models rviz urdf worlds
 install(DIRECTORY include/
   DESTINATION include/
 )
+install(
+  DIRECTORY
+   scripts
+  DESTINATION
+    share/${PROJECT_NAME}/
+)
+install(
+  PROGRAMS
+  scripts/dock_sim.py
+  DESTINATION lib/${PROJECT_NAME}
+)
 
 ################################################################################
 # Macro for ament package

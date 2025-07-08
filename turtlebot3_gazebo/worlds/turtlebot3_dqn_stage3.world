@@ -50,6 +50,19 @@
       </include>
     </model>
 
+    
+
+
+   <include>
+  <uri>model://docking_station</uri>
+  <pose>-2.08 -2.09 -0.384 0 0 -2.368</pose> <!-- x y z roll pitch yaw -->
+</include>
+
+<include>
+  <uri>model://parking_plane</uri>
+  <pose>4.45 0.06 0.003 0 0 0</pose> <!-- x y z roll pitch yaw -->
+</include>
+
     <model name="turtlebot3_dqn_obstacles">
       <plugin name="obstacles" filename="libobstacles.so"/>
       <allow_auto_disable>1</allow_auto_disable>
